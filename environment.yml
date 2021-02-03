@@ -16,6 +16,8 @@ dependencies:
 - seaborn=0.9.0
 - tqdm=4.41.1
 - unidecode=1.1.1
+- scipy=1.5.2
 - pip
 - pip:
   - ipython==7.10.1
+  - dexplot==0.1.4
