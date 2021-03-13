@@ -5,9 +5,9 @@
 * Hudson Pimenta ([@hudsonps15](https://twitter.com/hudsonps15))
 * Palermo Penano ([@pspenano](https://twitter.com/pspenano))
 
-Materials for a 3-part machine learning workshop named "Build a Loan Default Machine Learning Model using Python"
+This repository contains materials for a 3-part machine learning workshop named taught at Scotiabank.
 
-The data used in the workshop is a csv file of accepted loan applications named `accepted_2007_to_2018Q4.csv.gz`. The dataset can be downloaded from Kaggle here
+The data used in the workshop is a csv file of accepted loan applications named `accepted_2007_to_2018Q4.csv.gz` from Kaggle. The dataset can be downloaded from the url below:
 
 https://www.kaggle.com/wordsforthewise/lending-club
 
