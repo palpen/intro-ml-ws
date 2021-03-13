@@ -3,6 +3,7 @@
 data/*
 tmp/*
 
+!data/PUT_CSV_FILE_IN_THIS_FOLDER.txt
 *swp
 ~*xlsx
 
