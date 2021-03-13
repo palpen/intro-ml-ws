@@ -12,11 +12,11 @@
 
 3. Once installed, you can open a command line prompt by going to your search bar and typing "Anaconda Prompt". You should see a window open that looks like this
 
-   <img src="./imgs/anaconda_prompt.png" alt="anaconda_prompt" style="zoom:25%;" />
+   <img src="./imgs/anaconda_prompt.png" alt="anaconda_prompt" style="zoom:15%;" />
 
 4. Download this repository as a zipped file from GitHub (or clone the repository if you have Git installed)
 
-   <img src="./imgs/repo_zip.png" alt="repo_zip" style="zoom:25%;" />
+   <img src="./imgs/repo_zip.png" alt="repo_zip" style="zoom:20%;" />
 
 5. Extract all its contents to a directory on your computer. Note the path to the folder where the GitHub repository was extracted. You can get the folder location by right clicking on it and going to Properties
 
@@ -30,11 +30,11 @@
 
    If you succesfully changed the working directory in the Anaconda Prompt to the project directory, you should be able to list all the files in the folder using the `dir` command
 
-   <img src="./imgs/dir_folder.png" alt="dir_folder" style="zoom:50%;" />
+   <img src="./imgs/dir_folder.png" alt="dir_folder" style="zoom:40%;" />
 
 7. To build your development environment and install all the libraries required, run the command `conda env create` in the Anaconda Prompt inside of the GitHub project folder
 
-   <img src="./imgs/run_conda_env_create.png" alt="run_conda_env_create" style="zoom:25%;" />
+   <img src="./imgs/run_conda_env_create.png" alt="run_conda_env_create" style="zoom:20%;" />
 
    If succesful, you should have a conda environment named `intro-ml-ws` that will all the the library you need to follow this workshop and execute the codes in the notebook.
 
