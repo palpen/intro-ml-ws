@@ -1,6 +1,18 @@
-# Build a Load Default Prediction Model
+# Build a Loan Default Machine Learning Model using Python
 
+### Instructors
 
+#### * Hudson Pimenta ([@hudsonps15](https://twitter.com/hudsonps15))
+
+#### * Palermo Penano ([@pspenano](https://twitter.com/pspenano))
+
+Materials for a 3-part machine learning workshop named "Build a Loan Default Machine Learning Model using Python"
+
+The data used in the workshop is a csv file of accepted loan applications named `accepted_2007_to_2018Q4.csv.gz`. The dataset can be downloaded from Kaggle here
+
+https://www.kaggle.com/wordsforthewise/lending-club
+
+The workshop is split into 3 sessions the will cover the main parts of a standard data science machine learning development lifecycle
 
 ## Setting up development environment
 
