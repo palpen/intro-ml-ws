@@ -2,9 +2,9 @@
 
 ### Instructors
 
-#### * Hudson Pimenta ([@hudsonps15](https://twitter.com/hudsonps15))
+#### 	* Hudson Pimenta ([@hudsonps15](https://twitter.com/hudsonps15))
 
-#### * Palermo Penano ([@pspenano](https://twitter.com/pspenano))
+#### 	* Palermo Penano ([@pspenano](https://twitter.com/pspenano))
 
 Materials for a 3-part machine learning workshop named "Build a Loan Default Machine Learning Model using Python"
 
