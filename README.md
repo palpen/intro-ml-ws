@@ -1,3 +1,6 @@
+
+test
+
 # Build a Loan Default Machine Learning Model using Python
 
 #### Instructors
@@ -35,11 +38,11 @@ The workshop is split into 3 sessions the will cover the main parts of a standar
 
 6. In the Anaconda Prompt, change the current directory to the folder you extracted.
 
-   
+
 
    <img src="./imgs/anaconda_cd_proj_folder.png" alt="anaconda_cd_proj_folder" style="zoom:50%;" />
 
-   
+
 
    If you succesfully changed the working directory in the Anaconda Prompt to the project directory, you should be able to list all the files in the folder using the `dir` command
 
@@ -53,9 +56,9 @@ The workshop is split into 3 sessions the will cover the main parts of a standar
 
    You can list all the available conda environments by running the command `conda env list`
 
-8. Activate the environment by executing `conda activate intro-ml-ws`. 
+8. Activate the environment by executing `conda activate intro-ml-ws`.
 
-9. Start a notebook server by executing `jupyter notebook` 
+9. Start a notebook server by executing `jupyter notebook`
 
    <img src="./imgs/start_notebook.png" alt="start_notebook" style="zoom:50%;" />
 
