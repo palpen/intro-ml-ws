@@ -1,6 +1,3 @@
-
-test
-
 # Build a Loan Default Machine Learning Model using Python
 
 #### Instructors
