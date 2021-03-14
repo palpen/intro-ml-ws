@@ -11,11 +11,15 @@ The data used in the workshop is a csv file of accepted loan applications named 
 
 https://www.kaggle.com/wordsforthewise/lending-club
 
-The workshop is split into 3 sessions the will cover the main parts of a standard data science machine learning development lifecycle
+The workshop is split into 3 sessions that will cover the key parts of a standard data science / machine learning development lifecycle. These broadly include
 
-!!!
+* Setting up your development environment
+* Analyzing your dataset
+* Feature engineering
+* Training, validating, and evaluating models
+* Model interpretation
 
-## Setting up development environment
+## Setting up your development environment
 
 ### Windows
 
