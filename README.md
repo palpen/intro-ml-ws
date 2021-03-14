@@ -13,6 +13,8 @@ https://www.kaggle.com/wordsforthewise/lending-club
 
 The workshop is split into 3 sessions the will cover the main parts of a standard data science machine learning development lifecycle
 
+!!!
+
 ## Setting up development environment
 
 ### Windows
