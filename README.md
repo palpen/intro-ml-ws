@@ -33,7 +33,7 @@ Note: Miniconda only installs Python and the `conda` package manager. Anaconda i
 
 2. Open the `.exe` file and and follow the setup instructions. Say yes to all the default configuration without changing any of the recommended settings
 
-3. Once installed, you can open a command line prompt by going to your search bar and typing "Anaconda Prompt". You should see a window open that looks like this
+3. Once installed, you can open a command line prompt by going to your search bar and typing "Anaconda PowerShell Prompt". You should see a window open that looks like this
 
    <img src="./imgs/anaconda_prompt.png" alt="anaconda_prompt" style="zoom:15%;" />
 
