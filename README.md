@@ -61,7 +61,9 @@ Note: Miniconda only installs Python and the `conda` package manager. Anaconda i
 3. Hit `Command + Space` on your keyboard to open Spotlight Search to search for applications. Search for **Terminal**
 4. In the terminal, run the command `conda list`. You should see a list of installed packages appear if the installation was succesful.
 
-# Creating a virtual environment
+# Virtual Environments
+
+## Creating a virtual environment
 
 The instructions below shows you how to create a virtual environment using `conda` and subsequently starting a `Jupyter Notebook`. The steps are for the Windows OS, but is very similar to Mac OS, the commands for which I have added in parenthesis.
 
@@ -91,9 +93,11 @@ The instructions below shows you how to create a virtual environment using `cond
 
    You can list all the available conda environments by running the command `conda env list`
 
-6. Activate the environment with  `conda activate intro-ml-ws`.
+## Activating your virtual environment
 
-7. Start a notebook server by executing `jupyter notebook`
+1. Activate the environment with  `conda activate intro-ml-ws`.
+
+2. Start a notebook server by executing `jupyter notebook`
 
    <img src="./imgs/start_notebook.png" alt="start_notebook" style="zoom:50%;" />
 
