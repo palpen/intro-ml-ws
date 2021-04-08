@@ -12,19 +12,19 @@ The topics covered in each session are as follows:
 - April 8, 2021
 
 - - Setting up your development environment
-  - Analyzing your dataset
+  - [Analyzing your dataset](https://github.com/palpen/intro-ml-ws/blob/main/exploration.ipynb)
 
 - April 15, 2021
 
-- - Feature engineering
-  - Validation and test set
-  - Train a decision tree classifier
+- - [Feature engineering](https://github.com/palpen/intro-ml-ws/blob/main/feature_eng.ipynb)
+  - [Validation and test set](https://github.com/palpen/intro-ml-ws/blob/main/feature_eng.ipynb)
+  - [Train a decision tree classifier](https://github.com/palpen/intro-ml-ws/blob/main/model_pt1.ipynb)
 
 - April 22, 2021
 
-- - Train a decision tree classifier (continued)
-  - Train a random forest classifier
-  - Interpreting your model
+- - [Train a decision tree classifier (continued)](https://github.com/palpen/intro-ml-ws/blob/main/model_pt1.ipynb)
+  - [Train a random forest classifier](https://github.com/palpen/intro-ml-ws/blob/main/model_pt2.ipynb)
+  - Interpreting your model (TBD)
 
 # Lending Club Dataset
 
