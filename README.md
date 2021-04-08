@@ -7,11 +7,11 @@
 
 This repository contains materials for a 3-part machine learning workshop taught at Scotiabank. We will cover key parts of a standard data science development lifecycle and build a loan default predictor model using Python. 
 
-The topics covered in each session are as follows:
+The topics covered in each session are as follows (click the topics below to view the notebook covered in that session):
 
 - April 8, 2021
 
-- - Setting up your development environment
+- - Setting up your development environment (see below)
   - [Analyzing your dataset](https://github.com/palpen/intro-ml-ws/blob/main/exploration.ipynb)
 
 - April 15, 2021
