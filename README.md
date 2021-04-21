@@ -24,7 +24,6 @@ The topics covered in each session are as follows (click the topics below to vie
 
 - - [Train a decision tree classifier (continued)](https://github.com/palpen/intro-ml-ws/blob/main/model_pt1.ipynb)
   - [Train a random forest classifier](https://github.com/palpen/intro-ml-ws/blob/main/model_pt2.ipynb)
-  - Interpreting your model (TBD)
 
 # Lending Club Dataset
 
